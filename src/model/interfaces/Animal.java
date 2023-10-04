@@ -1,8 +1,6 @@
 package model.interfaces;
 
 import model.animals.*;
-
-import java.util.ArrayList;
 import java.util.Date;
 
 public interface Animal {
